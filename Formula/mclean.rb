@@ -1,9 +1,9 @@
 class Mclean < Formula
   desc "macOS System Cleaner"
   homepage "https://github.com/ANGRYCONE/macOS-System-Cleaner"
-  url "https://github.com/ANGRYCONE/macOS-System-Cleaner/releases/download/v2.4.6/macos_cleaner.sh"
-  sha256 "9ac3804e939a87c7498d252f5b83268645592b5a18270936a05169d2c8ae83ee"
-  version "2.4.6"
+  url "https://github.com/ANGRYCONE/macOS-System-Cleaner/releases/download/v2.5/macos_cleaner.sh"
+  sha256 "1ddfffca229809ec93b99459ab5d4a31eb80c6b301ef3791452fc0ae1d3040c7"
+  version "2.5"
 
   depends_on :macos
 
